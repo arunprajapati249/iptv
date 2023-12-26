@@ -1,4 +1,158 @@
 #EXTM3U
+#EXTINF:-1 group-title="Hindi Movies", $ Star Gold HD -1
+http://89.187.177.179:80/StarGoldHD-Hin/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies", $ Star Gold HD -2
+http://104.200.153.219:80/StarGoldHD-Hin/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies", $ Star Gold UK
+http://142.93.220.229:80/stargold_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL", Asianet Plus (Malayalam) HS HQ
+http://asianetplus-i.akamaihd.net/hls/live/569922/asianetplus/master_2000.m3u8|
+user-agent="Adobe_Premium_HQ"
+#EXTINF:-1 group-title="IPL", Star Pravah (Marathi) HS HQ
+http://starpravah-i.akamaihd.net/hls/live/569921/starpraavah/master_2000.m3u8|useragent="Adobe_Premium_HQ"
+#EXTINF:-1 group-title="IPL", Star Maa Movies (Telugu) HS HQ
+http://maamovies-i.akamaihd.net/hls/live/569931/maamovies/master_2000.m3u8|useragent="Adobe_Premium_HQ"
+#EXTINF:-1 group-title="IPL", Jalsha Movies (Bengali) HS HQ
+http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_2000.m3u8|
+user-agent="Adobe_Premium_HQ"
+#EXTINF:-1 group-title="IPL",064. StarSports1 Hindi HD 1
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",064. StarSports1 Hindi HD 2
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",064. StarSports1 Hindi HD 3
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",065. StarSports1 Hindi FHD 1
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_4000.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",065. StarSports1 Hindi FHD 2
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_4000.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",065. StarSports1 Hindi FHD 3
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_S
+ports_3_JSRV2_4000.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL",066. StarSports1 (HS) 360p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/mast
+er_184.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL",066. StarSports1 (HS) 720p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/mast
+er_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL",067. StarSports2 (HS) 360p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/mast
+er_184.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL",067 StarSports2 (HS) 720p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/mast
+er_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL",068 StarSports Hindi (HS) 720p
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/mas
+ter_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL",068 StarSports Hindi (HS) 360p
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/mas
+ter_184.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_1.png",069. StarSportsSelect1 FHD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_1.png",069. StarSportsSelect1 FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_1.png",069. StarSportsSelect1 FHD
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_2.png",070. StarSportsSelect2 FHD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_2.png",070. StarSportsSelect2 FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="IPL" tvg-id="" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Star_Sports_Select_HD_2.png",070. StarSportsSelect2 FHD
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_H
+D_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_HD.png", Sony HD -JTV HD
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_1200.m3
+u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_HD.png", Sony HD -JTV FHD 
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV
+6_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_HD.png", Sony HD -JTV FHD+
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV
+6_8000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
+user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_HD.png", Sony HD -ATV L
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225
+772/03.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_HD.png", Sony HD -ATV H
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225
+772/05.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_HD" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_295/PORTRAIT/c00954c1-
+6eef-4f4e-a388-7904a9191073.png", Sony HD -ATV M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD -ATV L
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/03.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD -ATV H
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/05.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD -ATV M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -JTV HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_JSRV6_
+1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -JTV FHD
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB
+_HD_JSRV6_4000.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -JTV FHD+
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB
+_HD_JSRV6_8000.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -ATV L
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -ATV H
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226078/03.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD -ATV M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony_SAB" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
+io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB SD -JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB/Sony_SAB_800.m3u8?
+jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
+------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
