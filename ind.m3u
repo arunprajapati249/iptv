@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== INDIA UK =====" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",===== INDIA UK =====
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100797
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS HD
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100798
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100799
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png" group-title="AS INDIA",IN-UK: STAR GOLD HD
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100800
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR GOLD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png" group-title="AS INDIA",IN-UK: STAR GOLD
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100801
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR BHARAT" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_BHARAT.png" group-title="AS INDIA",IN-UK: STAR BHARAT
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100802
+#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: ZEE TV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/ZEE_A.png" group-title="AS INDIA",IN-UK: ZEE TV
+http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/100803
+---------------------------------------------------------------------
+---------------------------------------------------------------------
 #EXTINF:-1 group-title="Hindi Movies", $ Star Gold HD -1
 http://89.187.177.179:80/StarGoldHD-Hin/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", $ Star Gold HD -2
