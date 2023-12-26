@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1,Sony TV  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/2476
+#EXTINF:-1,SONY Asia TV
+http://cobraa.in:8000/x5002200/5f4a42ae58979/7024
+#EXTINF:-1,SONY MAX  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/7021
+#EXTINF:-1,SONY MAX 2
+http://cobraa.in:8000/x5002200/5f4a42ae58979/7022
+#EXTINF:-1,SONY SETMAX
+http://cobraa.in:8000/x5002200/5f4a42ae58979/11543
+#EXTINF:-1,SONY SAB  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4157
+#EXTINF:-1,SONY MIX
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4156
+#EXTINF:-1,SONY Pix  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4167
+#EXTINF:-1,SONY WAH
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4236
+#EXTINF:-1,SONY PAL
+http://cobraa.in:8000/x5002200/5f4a42ae58979/11542
+#EXTINF:-1,SONY AATH
+http://cobraa.in:8000/x5002200/5f4a42ae58979/7025
+#EXTINF:-1,SONY 8
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4155
+#EXTINF:-1,SONY BBC EARTH  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4154
+#EXTINF:-1,Star Gold  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/2772
+#EXTINF:-1,STAR GOLD SELECT  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4162
+#EXTINF:-1,Star Plus  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/2470
+#EXTINF:-1,STAR MAA  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/7026
+#EXTINF:-1,STAR PRAVAH  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4160
+#EXTINF:-1,STAR MOVIES  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4158
+#EXTINF:-1,STAR MOVIES SELECT  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4159
+#EXTINF:-1,STAR WORLD  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4161
+#EXTINF:-1,STAR WORLD PREMIERE  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4146
+#EXTINF:-1,Colors  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/2546
+#EXTINF:-1,COLORS INFINITY  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4145
+#EXTINF:-1,COLORS Movies
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4148
+#EXTINF:-1,COLORS SUPER  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/4147
+#EXTINF:-1,COLORS MARATHI
+http://cobraa.in:8000/x5002200/5f4a42ae58979/11544
+#EXTINF:-1,&FLIX  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/11698
+#EXTINF:-1,&PRIVE F By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/11699
+#EXTINF:-1,&Picture  By www.iptv4free.com
+http://cobraa.in:8000/x5002200/5f4a42ae58979/2490
+---------------------------------------------
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",Zee Cinema HD
 https://zee5.sabbirhasan.trial.rocks/api?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x6581642453232",Zee Cinemalu HD
