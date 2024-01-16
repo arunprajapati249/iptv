@@ -3306,7 +3306,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 ===========================================Sony Liv=====================================
 
-#EXTINF:-1,tvg-id="471" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png" tvg-language="MULTI"  tvg-country="IN" tvg-url="" group-title="Sony Liv" ,SONY SAB HD
+#EXTINF:-1   tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png" tvg-language="MULTI"  tvg-country="IN" tvg-url="" group-title="Sony Liv" ,SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?type=ST
 
 #EXTINF:-1,tvg-id="291" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" tvg-language="MULTI"  tvg-country="IN" tvg-url="" group-title="Sony Liv" ,SONY HD
