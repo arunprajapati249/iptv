@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Discovery
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Discovery Kids
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", News11 Jharkhand
+http://cdn.smartstream.video/smartstream-us/news11/news11/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", &PriveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" audio-track="hi" aspect-ratio="16:9", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Travel XP HD Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", NAT GEO Wild HD
+http://84.17.41.7/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Eurosports HD
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", UTV Action
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Discovery Science
+https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", ESPN
+http://134.19.182.131:8080/edg8_2.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Republic
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Zee Cinema HD
+https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeecinemahd
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Mtv Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Xplore
+https://xplore-plex.amagi.tv/playlist720-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony Max HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony Pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony Yay
+https://sony247channels.akamaized.net:443/hls/live/2011746-b/SonyYaySD/hdntl=exp=1628011725~acl=%2f*~id=382761df-f761-450f-bd22-b04eef6f3a2a~data=hdntl~hmac=fa841c0a89a0a5383cf3c47e1d8d956f08b6fee7168a276b4eda2376d506083d/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/e386dacf-69ba-4c13-9c64-fc1451ff5a75:SIN2/variant/97ebfd1db425276fdad6ef61576de0c8/bandwidth/1218800.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony Pix HD
+https://sony247channels.akamaized.net:443/linear/hls/pb/event/8FR5Q-WfRWCkbMq_GxZ77w/stream/f6799e0f-0439-46ea-8960-f0497011d655:SIN2/variant/588c062711c9d8f219e9908a99e6941f/bandwidth/hdntl=exp=1628012631~acl=%2f*~id=2a9767f8-ca0f-4a21-8d62-c0843e6c49ef~data=hdntl~hmac=6b82a2a03027db565934fcc9dfebc78284ca7913decbeee4efa32ae27093091a/1218800.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony TEN1 HD
+https://sony247channels.akamaized.net:443/hls/live/2011747-b/TEN1HD/hdntl=exp=1628012769~acl=%2f*~id=bc0559f9-967c-483c-bd60-62baf64966af~data=hdntl~hmac=3808293777f8ed5660f22e3d4a1e3ad52e6b00b2b0d8c3fda4ec1d9bbceaa60c/master_1300.m3u8?originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/63c54ff4-3497-4f3f-84c5-6082e64950eb:SIN/variant/ebd5663a339570762edada36dbef9c40/bandwidth/1799600.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony TEN2 HD
+https://sony247channels.akamaized.net:443/hls/live/2020434-b/TEN2HD/hdntl=exp=1628012950~acl=%2f*~id=befd87ce-15e9-4eeb-90c5-daaea328175b~data=hdntl~hmac=eb754113b01f5e6a3ca6aba3712fdc5b710f6c01bd4ac78314ab89f0b68ef1fa/master_1300.m3u8?originpath=/linear/hls/pb/event/Syu8F41-R1y_JmQ7x0oNxQ/stream/65826890-35fb-408d-91f3-0402c36e5e02:SIN/variant/bb2f63cc9916eb40db2eec7fcb6c1495/bandwidth/1799600.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony TEN3 HD
+https://sony247channels.akamaized.net:443/hls/live/2020591-b/TEN3HD/hdntl=exp=1628013094~acl=%2f*~id=0614e27e-73c1-47df-be79-142a5cbd0ccc~data=hdntl~hmac=8523abce5c4537a3a01113558680aafdba9d00883e05368d0174519e7999f612/master_1300.m3u8?originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/d7b05696-bfed-4fb2-9ff7-fccf077cdc5b:SIN/variant/34b10885e26dfc70a92f219da66850a1/bandwidth/1799600.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony SIX HD
+https://sony247channels.akamaized.net:443/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1628013235~acl=%2f*~id=ac7e590c-5c13-4c70-940b-40f7c9fff60b~data=hdntl~hmac=ad9dd5661cafedd9cb3ec377e7df833ae4b55ea1a0dc33ae316a0f671ca9716f/master_1300.m3u8?originpath=/linear/hls/pb/event/DD7fA-HgSUaLyZp9AjRYxQ/stream/6e2f0dda-11a0-4e99-95bb-404786ff069c:SIN/variant/5c348a62afa73591f9eea215b39688af/bandwidth/1799600.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Pluto Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Pluto Flicks of Fury
+
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Horrorify
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", MBC2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", MBC MAX 
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Monster Movies
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Stirr Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8

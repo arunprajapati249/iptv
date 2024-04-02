@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="English Movies" aspect-ratio="16:9", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English Entertainment" aspect-ratio="16:9", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infotainment Hindi" aspect-ratio="4:3", Discovery
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News English" aspect-ratio="4:3", WION
+https://y5w8j4a9.ssl.hwcdn.net/wion//tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Series Hindi" aspect-ratio="16:9", Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Hindi Movies" aspect-ratio="4:3", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Hindi Movies" aspect-ratio="16:9", Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Hindi Movies" aspect-ratio="4:3", Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="4:3", Discovery Kids
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", News11 Jharkhand
+http://cdn.smartstream.video/smartstream-us/news11/news11/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English Movies" aspect-ratio="16:9", &PriveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="English Movies" audio-track="hi" aspect-ratio="16:9", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News English" aspect-ratio="16:9", Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infotainment Hindi" aspect-ratio="16:9", Travel XP HD Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infotainment Hindi" aspect-ratio="16:9", NAT GEO Wild HD
+http://84.17.41.7/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infotainment Hindi" aspect-ratio="16:9", Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English Entertainment" aspect-ratio="16:9", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", CNN HD
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony TEN3
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", SonyTEN2
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", SonyTEN1
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", SonySIX
+http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=piratesiptv_sohelahmed
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony SAB HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Star World Hd
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Star Plus HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Star Bhart HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Star Sports HD
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Star Jalsa HD
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sony Yay
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Fox Family HD
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sky Sports 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Sky Sports 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Eurosports HD
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8

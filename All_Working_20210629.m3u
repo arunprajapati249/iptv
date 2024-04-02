@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/oYyzF76zTSqEpdGB6", Zee Cinema Hd
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/3u3z5rUQ2U5hqCuY8", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/p4wygcJ7kucWYGBcA", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/8s3gTaH4tRgsQKSq7", Discovery
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/JTSpvfTe2f1izAB38", &PicturesHD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/DPXkuJvYkFXndyrW6", WION
+https://y5w8j4a9.ssl.hwcdn.net/wion//tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/vTqZ9fHCPmM5bjuPA", Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/5ALgtLcm87jnBogF8", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/noh21aYsqFGyH2k18", Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/rn2gXwDK6qhJA82a6", Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/yUhBNtuoZsKNjNuWA", Discovery Kids
+https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/wPcLeqToTS5P6XdHA", News11 Jharkhand
+http://cdn.smartstream.video/smartstream-us/news11/news11/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/syX2kszWz34BzPDC7", &PriveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/YyxTaZGeE6zoqQQ8A", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/A6q6fCzNfmqJxxb87", Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 type="video" channelId="-1" background="https://images.app.goo.gl/N5b1JQ2G4js1KQEAA", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
